@@ -10,3 +10,6 @@ https://shop.hasbro.com/
 
 To make work this game, you need to have the following circuit:
 
+![Image of the schematic circuit](https://github.com/SamyBencharef/Arduino_SymonGame/blob/master/imageReadMe/schematique.png)
+![Image of the circuit](https://github.com/SamyBencharef/Arduino_SymonGame/blob/master/imageReadMe/Circuit.png)
+
